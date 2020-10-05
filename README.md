@@ -13,3 +13,7 @@
    nemusíš komentovat každou proměnou, k čemu je a hlavně, to uvidíš později, nebudeš muset zpátky vyhledávat ve zdrojaku jak se to jmenuje, ale dáš na intuici.
    
 5) Nedělat dlouhé řádky, ať se to vejde na jednou a nemusí se posouvat.
+
+
+
+Zkouška změny
